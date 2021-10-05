@@ -21,7 +21,7 @@ Do the following:
 */
 
 var votingAge = 18;
-if(age >= 18) {
+if(votingAge >= 18) {
  console.log('true');
 }
 
@@ -36,8 +36,14 @@ Do the following:
 
    HINT: no function required
 */
-
-
+// Declaring my first variable here
+var firstName= "Sofie"
+// Logging my first variable
+console.log(firstName)
+// Re-assigning my variable to "sunshine"
+firstName="sunshine"
+//done 
+console.log(firstName)
 
 
 
